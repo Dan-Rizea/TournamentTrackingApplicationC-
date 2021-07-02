@@ -1,0 +1,8 @@
+C:\Users\40770\Desktop\C# 1\TrackerLibrary\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+C:\Users\40770\Desktop\C# 1\TrackerLibrary\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+C:\Users\40770\Desktop\C# 1\TrackerLibrary\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+C:\Users\40770\Desktop\C# 1\TrackerLibrary\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+C:\Users\40770\Desktop\C# 1\TrackerLibrary\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+C:\Users\40770\Desktop\C# 1\TrackerLibrary\TrackerLibrary\bin\Debug\Dapper.dll
+C:\Users\40770\Desktop\C# 1\TrackerLibrary\TrackerLibrary\bin\Debug\Dapper.xml
+C:\Users\40770\Desktop\C# 1\TrackerLibrary\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete

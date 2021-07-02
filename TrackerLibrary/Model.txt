@@ -1,0 +1,22 @@
+model
+
+if (usingSQL == true)
+
+{
+Open database connection
+Save the data
+}
+
+If (usingTextFile == true)
+
+{
+Open text file
+Generate id
+Save the data
+}
+
+How do we get that connection information?
+How do we connect to two different data sources to do the same task?
+
+Static class for data source info
+Interface for data sources
